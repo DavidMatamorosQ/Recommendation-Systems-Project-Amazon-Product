@@ -1,5 +1,5 @@
 # MIT - DATA SCIENCE AND MACHINE LEARNING: MAKING DATA-DRIVEN DECISIONS
-## Recommendation-Systems-Project-Amazon-Product-
+## Recommendation-Systems-Project-Amazon-Product
 Welcome to the project on Recommendation Systems. We will work with the Amazon product reviews dataset for this project. The dataset contains ratings of different electronic products. It does not include information about the products or reviews to avoid bias while building the model.
 
 ### **Context:**
